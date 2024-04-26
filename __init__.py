@@ -1,3 +1,3 @@
-from anfis import *
-from membership import *
-from experimental import *
+from .anfis import *
+from .membership import *
+from .experimental import *
